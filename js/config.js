@@ -8,3 +8,4 @@ window._config = {
         invokeUrl: 'https://rihycjua3d.execute-api.ap-south-1.amazonaws.com/prod'
     }
 };
+        
